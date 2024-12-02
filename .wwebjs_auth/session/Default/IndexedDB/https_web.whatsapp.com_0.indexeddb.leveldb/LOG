@@ -1,0 +1,24 @@
+2024/12/02-23:35:54.834 dc03 Reusing MANIFEST /Users/aarnavsingh/Desktop/w/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/02-23:35:54.835 dc03 Recovering log #39
+2024/12/02-23:35:55.009 dc03 Reusing old log /Users/aarnavsingh/Desktop/w/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000039.log 
+2024/12/02-23:36:00.014 1fe03 Level-0 table #44: started
+2024/12/02-23:36:00.148 1fe03 Level-0 table #44: 772397 bytes OK
+2024/12/02-23:36:00.209 1fe03 Delete type=0 #39
+2024/12/02-23:36:00.239 aa03 Manual compaction at level-0 from '\x00\x16\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/12/02-23:36:00.257 aa03 Level-0 table #46: started
+2024/12/02-23:36:00.274 aa03 Level-0 table #46: 445 bytes OK
+2024/12/02-23:36:00.327 aa03 Delete type=0 #43
+2024/12/02-23:36:00.327 aa03 Manual compaction at level-0 from '\x00\x17\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x18\x00\x00\x00' @ 0 : 0; will stop at '\x00\x17\x00\x00\x05' @ 116410 : 0
+2024/12/02-23:36:00.327 aa03 Compacting 1@0 + 1@1 files
+2024/12/02-23:36:00.570 aa03 Generated table #47@0: 20456 keys, 485885 bytes
+2024/12/02-23:36:00.570 aa03 Compacted 1@0 + 1@1 files => 485885 bytes
+2024/12/02-23:36:00.613 aa03 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/12/02-23:36:00.614 aa03 Manual compaction at level-0 from '\x00\x17\x00\x00\x05' @ 116410 : 0 .. '\x00\x18\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/12/02-23:36:04.087 6a03 Compacting 1@1 + 1@2 files
+2024/12/02-23:36:04.269 6a03 Generated table #48@1: 27237 keys, 1923642 bytes
+2024/12/02-23:36:04.269 6a03 Compacted 1@1 + 1@2 files => 1923642 bytes
+2024/12/02-23:36:04.317 6a03 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/12/02-23:36:04.320 6a03 Delete type=2 #41
+2024/12/02-23:36:04.320 6a03 Delete type=2 #44
+2024/12/02-23:36:04.320 6a03 Delete type=2 #46
+2024/12/02-23:36:04.320 6a03 Delete type=2 #47
